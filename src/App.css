@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Image-container {
+  margin-top: 50px; /* Adjust as needed */
+}
+
+.App-image {
+  width: 150px; /* Adjust as needed */
+}
+
+.Personal-info {
+  margin-top: 20px; /* Adjust as needed */
+  text-align: left;
+  max-width: 600px; /* Adjust as needed */
+}
